@@ -25,3 +25,7 @@ We used several open source python packages and frameworks: Pandas, Numpy, SciKi
 - MOHAMMEDI Larbi Abderrahmane - Industrial Engineering student at Polytechnic School of Algiers - (ENP Alger)
 - MELLAK Rostane Mohamed Zakari   - Industrial Engineering student at Polytechnic School of Algiers - (ENP Alger)
 - BOUDJELOUAH Rayane Yaniss - Industrial Engineering student at Polytechnic School of Algiers - (ENP Alger)
+
+## Thanks
+
+We would like to thank the organizers and all participants along with other Algerian teams like Crew ESI and congrats them on the 6th place in private LB, Auto Mates from Polytechnic School of Algiers and The 19.
