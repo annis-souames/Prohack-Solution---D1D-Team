@@ -11,7 +11,7 @@ We had two tasks: Predict a target variable y which represents the well being in
 
 ## What we did in short ? 
 
-To describe our approach in short (more details in the notebook), we started by cleaning and traiting missing values and outliers, we built 3 stacked models with 3 different feature sets: one using all features, one using encoded features from an autoencoder and the last model using all features + mean,min,max,std of each feature (over 500 features). Then we blended results of the 3 models using a geometric mean.
+To describe our approach in short (more details in the notebook), we started by cleaning and handling missing values and outliers, we built 3 stacked models with 3 different feature sets: one using all features, one using encoded features from an autoencoder and the last model using all features + mean,min,max,std of each feature (over 500 features). Then we blended results of the 3 models using a geometric mean.
 
 For the 2nd task we took an informal approach by analysing the results of the 1st task and assigning values using a linear decrease with 3 different slopes (more details in the notebook).
 
