@@ -2,6 +2,8 @@
 Our solution to the data science hackathon by McKinsey: Prohack, by our team D1D, which was ranked 4th on public leaderboard and 25th on private leaderboard. This is our first data science competition and we are very glad with the results, we worked very hard on this.
 There are 2 notebooks in this repo with detailed approach: one is for the 1st task and 2nd is for the 2nd task.
 
+![Prohack Cover](https://i.imgur.com/9Vji9vf.png)
+
 ## About Prohack:
 
 The hackathon started on May, 18th, 2020 and ended on June 21st 2020. The dataset had around 80 features and few more than 4000 rows (train and test) with 890 rows on test set. 
